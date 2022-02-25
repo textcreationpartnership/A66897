@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Go shew thy self to the priest safe advice for a sound Protestant / by L. Womock ...</title>
+            <author>Womock, Laurence, 1612-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66897</idno>
+            <idno type="STC">Wing W3344</idno>
+            <idno type="STC">ESTC R20291</idno>
+            <idno type="EEBO-CITATION">12733879</idno>
+            <idno type="OCLC">ocm 12733879</idno>
+            <idno type="VID">66524</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66897)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66524)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 994:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Go shew thy self to the priest safe advice for a sound Protestant / by L. Womock ...</title>
+                  <author>Womock, Laurence, 1612-1685.</author>
+               </titleStmt>
+               <extent>[2], 19 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Clavel ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Doctrines.</term>
+               <term>Anti-Catholicism --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:66524:1"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Guil. Jane, <hi>R. P. D.</hi>
+                     </item>
+                     <item>Hen. <hi>Epiſc.</hi> Lond. <hi>à ſacris domeſticis.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <dateline>
+                  <date>Mar. 4. 1678 / 9,</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:66524:1" rendition="simple:additions"/>
+            <p>
+               <hi>Go ſhew thy ſelf to the Prieſt:</hi> SAFE ADVICE For a Sound PROTESTANT.</p>
+            <p>BY <hi>L. Womock,</hi> D. D. A. S.</p>
+            <q>
+               <bibl>Ecclus. 11. 7.</bibl>
+               <p>Blame not before thou haſt examined the truth: Underſtand firſt, and then rebuke.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Robert Clavel,</hi> at the Peacock in St. <hi>Paul</hi>'s Church-yard. 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:66524:2"/>
+            <pb n="1" facs="tcp:66524:2"/>
+            <head>SAFE ADVICE FOR A Sound Proteſtant.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE occaſion of this Paper was a Diſcourſe upon the cleanſing of the Leper;<note place="margin">Mat. 8. 1, 2, 3, 4.</note> and particularly that head of Application which was managed as followeth: [We do ſtedfaſtly believe that every man muſt give an account of himſelf to God; and is it not then, at leaſt adviſable, that he ſhould ſhew himſelf unto the Prieſt; that he may be the better prepared for that ac<g ref="char:EOLhyphen"/>count? I know the Law of <hi>Moſes</hi> does not bind us, in its Authority; but yet, it may direct us, by a parity of reaſon. As that Law was a diſpenſation by the hand of <hi>Moſes,</hi> ſo it was peculiar to the Jewiſh Nation. But as the <hi>Moral</hi> part of that Law (being the Law of Nature, in Print, and ſet forth for better information) is of perpetual uſe and
+<pb n="2" facs="tcp:66524:3"/> obligation; ſo the <hi>Ceremonial</hi> part, having a ſhadow of good things to come, does invite us earneſtly to look after the ſubſtance, wherein we may poſſibly be concerned.</p>
+            <p>The Apoſtle tells us, that under the letter of a Carnal Ordinance, many times, there lies hid a Spiritual ſignification. And this very Leproſie of the body did repreſent ano<g ref="char:EOLhyphen"/>ther, much more malignant, noiſom, and pernicious, the Leproſie of Sin, that over<g ref="char:EOLhyphen"/>ſpreads and defiles the ſoul. Now, was there a Miniſtry of divine inſtitution to take cog<g ref="char:EOLhyphen"/>nizance of that, to inſpect the perſon ſo in<g ref="char:EOLhyphen"/>fected, and to give judgment of his condi<g ref="char:EOLhyphen"/>tion? And is there no proviſion made in this caſe of ſpiritual Leproſie? Was God more careful (then) of his peoples bodies, than he is (now) of their ſouls? No certainly: Chriſt came a Phyſician for the ſoul, and ap<g ref="char:EOLhyphen"/>plied himſelf to ſinners, and their Ghoſtly maladies. <hi>The whole have no need of the Phy<g ref="char:EOLhyphen"/>ſician</hi>
+               <note place="margin">Mat. 9. 12.</note>, <hi>but the ſick; I came not to call the righte<g ref="char:EOLhyphen"/>ous,</hi>
+               <note place="margin">Mar. 2. 17. Luk. 5. 31.</note> 
+               <hi>but ſinners to repentance.</hi> Chriſt is a Prieſt for ever; and though (for that reaſon) he can have no ſucceſſor: Yet, becauſe, in the execution of that Office, he ſits now in hea<g ref="char:EOLhyphen"/>ven, he was pleaſed to appoint his ſubſtitutes
+<pb n="3" facs="tcp:66524:3"/> to adminiſter (here) in his Church on earth. <hi>As my Father hath ſent me, even ſo ſend I you:</hi>
+               <note place="margin">Joh. 20. 21.</note> (And) <hi>he that receiveth you, receiveth me; and</hi>
+               <note place="margin">Mat. 10. 40.</note> 
+               <hi>he that heareth you, heareth me.</hi> And unleſs we<note place="margin">Luk. 10. 16.</note> value our health more than our ſalvation, we will, no doubt, be as forward to ſhew our ſelves unto the Prieſt, upon a Spiritual, as thoſe Jews were, upon their Carnal ac<g ref="char:EOLhyphen"/>count. And this is eſpecially requiſite in three Caſes.</p>
+            <p>(1.) To inform our Judgment. (2.) To aſſure our Conſcience. And (3.) to credit our Communion. [Conference with the Prieſt is requiſite;</p>
+            <p n="1">1. To inform the Judgment. Many times, doubtful caſes do ariſe, and the difficulties which do occur, in the conduct of a Chriſti<g ref="char:EOLhyphen"/>ans life, are not few, nor to be neglected. And what Oracle can we ſo prudently ap<g ref="char:EOLhyphen"/>peal unto, as that Sacred faculty, whoſe skill and learning is deſign'd on purpoſe to miniſter to ſuch as ſtand in need of their in<g ref="char:EOLhyphen"/>ſtruction and conduct? <hi>For the Prieſts lips</hi>
+               <note place="margin">Mal. 2. 7.</note> 
+               <hi>ſhould keep knowledge, and they ſhould ſeek the Law at his mouth: for he is the Meſſenger of the Lord of Hoſts.</hi> If it were ſo in thoſe days, much more under the diſpenſation of the
+<pb n="4" facs="tcp:66524:4"/> Goſpel, wherein the <hi>Veil</hi> is taken from the face of the Prieſt; and his <hi>Miniſtration does</hi> ſo far <hi>exceed in glory,</hi> 2 Cor. 3. 9, &amp; 13.</p>
+            <p n="2">2. Conference with the Prieſt is very re<g ref="char:EOLhyphen"/>quiſite to aſſure the Conſcience. A little guilt does afflict and trouble a tender Con<g ref="char:EOLhyphen"/>ſcience; and a ſcruple, many times (where, really, there is no ſuch guilt at all, as in ima<g ref="char:EOLhyphen"/>gined) may much diſquiet it. Now, to have aſſurance from a better judgment than my own; or (if not a better) from a judg<g ref="char:EOLhyphen"/>ment, cloathed with a Sacred Office and Authority; to have my doubts cleared by the diſcourſes of a prudent pious perſon, and my jealouſie of guilt taken off by a ſolemn abſolution; This, one would think, ſhould bring in a conſiderable ſatisfaction. He that duly weighs the circumſtances, with which the power of the Keys was delivered by our Saviour, cannot but be convinced, that there is more ſolid comfort in that Miniſtry than is ordinarily imagined. You may read atten<g ref="char:EOLhyphen"/>tively the bequeſt, <hi>Joh.</hi> 20. 20, 21, 22, 23.</p>
+            <p n="3">3. It is requiſite to ſhew our ſelves to the Prieſt, to credit our Communion. The Apoſtle has laid down this Canon; <hi>If any man that is called a Brother</hi> (a Chriſtian by
+<pb n="5" facs="tcp:66524:4"/> Profeſſion) <hi>be a fornicator, or covetous, or an Idolator, or a railer, or a drunkard, or an ex<g ref="char:EOLhyphen"/>tortioner,</hi>
+               <note place="margin">1 Cor. 5. 11.</note> I would not have you give ſo much ſcandal to the Church, or ſo much counte<g ref="char:EOLhyphen"/>nance to ſuch a perſon, as (out of deſign or choice) <hi>to eat with him.</hi> A man known to be of a looſe Converſation, (in any ſingle, or more inſtances or wickedneſs) though he has not been delated to his Superiours, not pre<g ref="char:EOLhyphen"/>ſented, or accuſed before any Court of Judi<g ref="char:EOLhyphen"/>cature; yet being conſcious to himſelf of ſcan<g ref="char:EOLhyphen"/>dal given to the Church whereof he is a Member, it will very well become him, as an humble, as an ingenuous, as a penitent and ſerious perſon, to ſhew himſelf to the Prieſt, as well to obtain his advice and prayers, as his approbation and encourage<g ref="char:EOLhyphen"/>ment, and for the ſatisfaction of thoſe with whom he does communicate. He that de<g ref="char:EOLhyphen"/>nies the uſefulneſs of ſuch addreſſes upon this threefold account, doth evacuate the uſe of the Miniſtry, almoſt, to all intents and purpoſes.</p>
+            <p>If he denies the firſt, to what purpoſe are our Catechiſings, and our Sermons, unleſs he makes it his buſineſs to frequent them, not to inform his judgment, but to cenſure the
+<pb n="6" facs="tcp:66524:5"/> diſcourſe, and traduce the Preacher? If he denies the ſecond, what becomes of the be<g ref="char:EOLhyphen"/>nefit of Abſolution, of good directions and advice, with all Ghoſtly comfort, admini<g ref="char:EOLhyphen"/>ſtred, towards the peace of afflicted Conſci<g ref="char:EOLhyphen"/>ences? If he denies the third, he takes away one of the beſt expedients to prevent the ſcandal of an indiſcriminate and free admiſſi<g ref="char:EOLhyphen"/>on to the Lords Supper.</p>
+            <p>But not to reflect upon the Sentiments or Cenſures of raſh men (whoſe paſſions are governed by their intereſt, and their judg<g ref="char:EOLhyphen"/>ments by their paſſions,) let us learn, what were the ſober thoughts of ſuch as were moſt zealous of a prudent and pious Reformation. We will begin with <hi>Herman<g ref="char:EOLhyphen"/>nus</hi>
+               <note place="margin">
+                  <hi>Bonnae 1545. Cap. de Conver<g ref="char:EOLhyphen"/>ſione à peccatis,</hi> m. fol. 6.</note> Archbiſhop of <hi>Colen,</hi> in his worthy at<g ref="char:EOLhyphen"/>tempt to that effect. Where he ſaith, <q>That private Confeſſion and Abſolution are to be retained in the Churches; not that there is any neceſſity of the particular enu<g ref="char:EOLhyphen"/>meration of ſins: But becauſe, (that Ca<g ref="char:EOLhyphen"/>techiſing) that Inſtruction and Conſolati<g ref="char:EOLhyphen"/>on, which does accompany this wholſom practice, is very profitable, and, to many, very neceſſary; that they may teſtifie their hearty ſorrow for their ſins paſt, and their
+<pb n="7" facs="tcp:66524:5"/> firm purpoſe of amendment for the future; and that they may not be left in the dark, and doubtful of their pardon and forgive<g ref="char:EOLhyphen"/>neſs.</q> Next we will obſerve the <hi>Auguſtan</hi> Confeſſion, tendred with all humility (in the year 1530.) to the Emperour <hi>Charles</hi>
+               <note place="margin">De Confeſſione.</note> the Fifth, from which the very Name and Title of <hi>Proteſtants</hi> was derived, their ad<g ref="char:EOLhyphen"/>dreſs ending with theſe words, [<hi>De quo hic etiam ſolenniter &amp; publicè Proteſtamur.</hi>] In that Confeſſion they do highly extol the power of the Keys, and the benefit of private Abſo<g ref="char:EOLhyphen"/>lution; that it does declare and apply the Goſpel to terrified Conſciences: And this application it makes, not (only) to all in general, but to every ſingle perſon in parti<g ref="char:EOLhyphen"/>cular, as our Saviour Chriſt affirms, [<hi>Thou haſt gain'd thy Brother.</hi>] That this Abſolution is therefore to be retained in the Church; and that the voice of the Goſpel in this Miniſtry is to be believed as a voice from Heaven. And ſeeing Confeſſion does make way for the benefit of this Abſolution, and foraſ<g ref="char:EOLhyphen"/>much as the Rite and Cuſtom thereof does preſerve, in the people, the underſtanding of power of the Keys, and of the Remiſſion of ſins; and beſides, ſeeing that Conference,
+<pb n="8" facs="tcp:66524:6"/> there had, is of great advantage for mens in<g ref="char:EOLhyphen"/>ſtruction and warning; Therefore (ſay they) we do diligently retain the uſe of Con<g ref="char:EOLhyphen"/>feſſion in our Churches; yet teaching them withal, that the particular enumeration of ſins is not neceſſary of divine right, nor as mens Conſciences to be burdened with it, <hi>&amp;c.</hi> To this Confeſſion ſubſcribed, <hi>John Duke of Saxony Elector, George Marq. Brandenburgh, Erneſt Duke of Lunenburgh, Philip Lantgrave of Heſs, John Frederick Duke of Saxony, Francis Duke of Lunebergh, Wolfangus Prince of Anhalt, the Senate and Magiſtrates of Nurenborgh, the Senate of Kentlingen.</hi>
+            </p>
+            <p>In the Confeſſion of <hi>Saxony</hi> offered to the Council of <hi>Trent,</hi> 1551. they declared thus, Concerning private Confeſſion to be made to the Paſtors, we do affirm that the Cuſtom of private Abſolution is to be retained in the Church: And we do conſtantly retain it for many weighty cauſes; though we teach alſo, that a particular recital of all ſins, is neither of divine command, or poſſible; but apt to make faith the more feeble, and pious minds the more doubtful.</p>
+            <pb n="9" facs="tcp:66524:6"/>
+            <p>In the Confeſſion of <hi>Wittenbergh</hi> (of<note place="margin">The Tranſla<g ref="char:EOLhyphen"/>tor into Eng<g ref="char:EOLhyphen"/>liſh refers it to <hi>Auſpurge, ut infra</hi> 1586.</note> 1552.) they declare, Though they do not think the enumeration of their ſins before a Prieſt, of neceſſity to Salvation, nor of any merit toward the remiſſion of ſins: Yet they take care, as far as may be, that Con<g ref="char:EOLhyphen"/>feſſion of ſins in general may be retained in their Churches for two reaſons; The firſt, that the more ignorant ſort of people may, by that way of Conference, be the better admoniſhed and inſtructed in all things ne<g ref="char:EOLhyphen"/>ceſſary: The other, That upon this occaſi<g ref="char:EOLhyphen"/>on, the Goſpel of Chriſt, touching the remiſſion of ſins, may be particularly appli<g ref="char:EOLhyphen"/>ed, and the aſſurance of Abſolution be either apprehended, or confirmed.</p>
+            <p>In the Confeſſion of <hi>Bohemia</hi> they declare,<note place="margin">1535.</note> That though they do not injoyn, nor require a particular enumeration of ſins, yet they teach that Penitents ſhould have recourſe to the Prieſt, (whom the Engliſh Tranſlation<note place="margin">Edit. by <hi>Tho. Thamas</hi> at <hi>Cambridge,</hi> 1586.</note> calls, the Phyſician of their ſouls) to con<g ref="char:EOLhyphen"/>feſs their ſins to God before him, and (as that Tranſlator wordeth it) to declare their grief, trouble, and remorſe; to take advice and counſel, how they may avoid ſin for the future, and to ſeek for abſolution and
+<pb n="10" facs="tcp:66524:7"/> pardon by this Miniſtry of the Keys, which is Chriſts Inſtitution. They teach men alſo to magnifie this Abſolution; and undoubted<g ref="char:EOLhyphen"/>ly to believe what this power of the Keys pro<g ref="char:EOLhyphen"/>miſeth, ſeeing it is the voice of Chriſt him<g ref="char:EOLhyphen"/>ſelf and expreſt by his command, <hi>Receive</hi>
+               <note place="margin">Joh. 2.</note> 
+               <hi>ye the Holy Ghoſt: Whoſe ſins ye remit, they are remitted,</hi> &amp;c. and they would have them know that by this power and Miniſtry of the Keys, and the authority of Chriſts Word, all their ſins are pardoned. To leave Foreiners,</p>
+            <p>Let us ſee what the Advice and Practice of the Church of <hi>England</hi> is: (1.) She is very poſitive in her Order, Rules, and Ca<g ref="char:EOLhyphen"/>nons, that all perſons ſhould ſhew them<g ref="char:EOLhyphen"/>ſelves unto the Prieſt, to be Catechized, and to hear Sermons, for the Information of their Judgments. But (2.) as to ſuch as find themſelves diſquieted in mind and con<g ref="char:EOLhyphen"/>ſcience, it is rather a matter of advice than of command; for thus ſhe does invite and per<g ref="char:EOLhyphen"/>ſuade them to apply themſelves for their own benefit.</p>
+            <p>[And becauſe it is requiſite, that no<note place="margin">The firſt Ex<g ref="char:EOLhyphen"/>hortation be<g ref="char:EOLhyphen"/>fore the Com<g ref="char:EOLhyphen"/>munion.</note> man ſhould come to the holy Communion, but with a full truſt in Gods mercy, and
+<pb n="11" facs="tcp:66524:7"/> with a quiet Conſcience; therefore if there be any of you who cannot quiet his own Conſcience, but requireth further comfort or counſel; let him come to me, or to ſome other diſcreet and learned Miniſter of Gods Word, and open his grief, that by the Miniſtry of Gods holy Word, he may receive the be<g ref="char:EOLhyphen"/>nefit of Abſolution, together with Ghoſtly counſel and advice, to the quieting of his Conſcience, and avoiding of all ſcruple and doubtfulneſs.] Nor is the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> leſs tender or cautious in her advice and order at the <hi>Viſitation</hi> of the <hi>Sick;</hi> for the <hi>Rubrick</hi> before the Abſolution runs thus: [Here ſhall the ſick perſon be moved to make a ſpecial confeſſion of his ſins, <hi>if he feels his Conſcience troubled with any weighty matter.</hi> After which Confeſſion the Prieſt ſhall ab<g ref="char:EOLhyphen"/>ſolve him (<hi>if he humbly and heartily deſire it.</hi>)</p>
+            <p>I confeſs, that in the third caſe, that of Scandal, her Rules and Canons are more ſtrict; and it would be much for the honour of God, and of our Profeſſion, if the ini<g ref="char:EOLhyphen"/>quity and looſeneſs of theſe times would allow us to be no leſs ſtrict in the obſerva<g ref="char:EOLhyphen"/>tion and practice of them. The Rubrick is<note place="margin">See the Ru<g ref="char:EOLhyphen"/>brick before the ſecond Service.</note> this, [If any one that offers to come to the
+<pb n="12" facs="tcp:66524:8"/> holy Communion be an open and a noto<g ref="char:EOLhyphen"/>rious evil liver, or have done wrong to his Neighbour, ſo that the Congregation be thereby offended; the Curate having know<g ref="char:EOLhyphen"/>ledge thereof, ſhall advertiſe him, in no wiſe to preſume to come to the Lords Ta<g ref="char:EOLhyphen"/>ble, till he has openly declared his repen<g ref="char:EOLhyphen"/>tance, and given ſatisfaction to the offended Congregation, and the party whom he hath wronged. The like order the Curate is to take with ſuch as live in habitual hatred and malice. Theſe are the terms and ends, for and upon which the Church of <hi>England</hi> ſends her Members for their advantage and reme<g ref="char:EOLhyphen"/>dy to the Prieſts Office. And whether the Presbyterian Party be more modeſt and gentle in their Requiries we ſhall now con<g ref="char:EOLhyphen"/>ſider.</p>
+            <p>(Not to look ſo far back as their <hi>Directory,</hi> and their <hi>Humble Advice</hi> to the <hi>Parliament,</hi>) In their <hi>Grand Debate</hi> by the Kings Com<g ref="char:EOLhyphen"/>miſſion, amongſt their <hi>Exceptions</hi> againſt<note place="margin">Pag. 14. &amp; 15.</note> ſome paſſages in the <hi>Liturgie,</hi> they deſire the Miniſters power both to admit and keep from the Lords Table, may be in theſe words, [The Miniſter ſhall admit none to the Lords Supper, till they have made a
+<pb n="13" facs="tcp:66524:8"/> credible profeſſion of their Faith, and pro<g ref="char:EOLhyphen"/>miſed obedience to the Will of God, and that all poſſible diligence be uſed, as is for the inſtruction and reformation of ſcanda<g ref="char:EOLhyphen"/>lous offenders, whom the Miniſter ſhall not ſuffer to partake of the Lords Table, until they have openly declared themſelves to have truly repented and amended their for<g ref="char:EOLhyphen"/>mer<note place="margin">Pag. 124.</note> naughty lives. And not ſatisfied with a weeks warning for the Sacrament, they expoſtulate thus, [Is there leiſure of ſelf-exa<g ref="char:EOLhyphen"/>mination, and reſtitution, and ſatisfaction, and going to the Miniſter for counſel to quiet his Conſcience? In their <hi>Reformation</hi> of the <hi>Liturgie</hi> they ſay thus, [They only are to be<note place="margin">Pag. 48. f.</note> invited to the Lords Table, and to come, that truly repent and believe, and unfeigned<g ref="char:EOLhyphen"/>ly conſent to the terms of the Covenant: [Then follows an odd Parentheſis] (though all are not to be invited thus to believe and repent, and ſo to come.) But thoſe are to be admitted, by the Paſtors, if they come, who, having the uſe of reaſon to underſtand what they do, and examine themſelves, have made a perſonal profeſſion of Faith, Re<g ref="char:EOLhyphen"/>pentance, and Obedience.] And treating of Catechizing, and the approbation of thoſe
+<pb n="14" facs="tcp:66524:9"/> that are to be admitted to the Lords Supper: They give this order; [Let the Miniſter<note place="margin">Pag. 66.</note> either go to their houſes, or rather appoint the perſons (of ſeveral Families) in their courſes, to come to him for perſonal inſtru<g ref="char:EOLhyphen"/>ctions, where he may confer with thoſe, who are unmeet to be Catechiſed publickly, or unwilling to ſubmit to it, and there let him acquaint them with the ſubſtance of Chriſtian faith and duty.] And they add this caution, [But let him not in publick or private meddle with impertinences, nor ſift people to know things unfit, or unne<g ref="char:EOLhyphen"/>ceſſary to be diſcloſed.] And a little after their order is very ſtrict and poſitive, in theſe (and many other words) [Let<note place="margin">Pag. 67.</note> none be admitted by the Miniſter to the Sacrament of the Lords Supper, till, be<g ref="char:EOLhyphen"/>ing inſtructed in the Chriſtian Religion, (they) do openly make a credible profeſſi<g ref="char:EOLhyphen"/>on of their own faith and promiſe to be obedient to the Will of God. (And they add) A profeſſion is credible when it is made underſtandingly, ſeriouſly, volunta<g ref="char:EOLhyphen"/>rily, deliberately, and not nullified by con<g ref="char:EOLhyphen"/>tradiction in Word or Deed. (And a lit<g ref="char:EOLhyphen"/>tle after) [It is not private perſons only,
+<pb n="15" facs="tcp:66524:9"/> but the Paſtors of the Church, that muſt approve of this Profeſſion. Therefore before any are admitted to the Lords Supper, they ſhall give a good account of their Know<g ref="char:EOLhyphen"/>ledge, Faith, and Chriſtian Converſation conformable thereunto, unto the Paſtors of their reſpective Congregations, or elſe ſhall produce a Certificate, that they have been approved or admitted to the Lords Supper in another Congregation, of which they were Members, and that by an allowed Miniſter upon ſuch approved profeſſion as aforeſaid.] And they cloſe their charge with theſe words, [Let no Miniſter be in<g ref="char:EOLhyphen"/>forced to admit any himſelf to the Lords Supper, who hath been clancularly and irregularly approved. Thoſe that after this Approbation prove ſcandalous offenders, ſhall not by the Miniſter be ſuffered to par<g ref="char:EOLhyphen"/>take of the Lords Table, until they have openly declared themſelves to have truly repented and amended their former naugh<g ref="char:EOLhyphen"/>ty lives.] Thus much for the Presbyterian Brethren.</p>
+            <p>We ſee then, that this Leſſon [<hi>Go ſhew thy ſelf to the Prieſt</hi>] is a Doctrine, which all Parties themſelves more or leſs
+<pb n="16" facs="tcp:66524:10"/> concerned in. The Church of <hi>Rome</hi> impoſes it with a very ſtrict ſeverity, to the over<g ref="char:EOLhyphen"/>charging and inſnaring of tender Conſci<g ref="char:EOLhyphen"/>ences; and makes uſe of it to very wicked ends and purpoſes; to fiſh out mens tem<g ref="char:EOLhyphen"/>pers and inclinations; that as occaſion ſerves, they may imploy them to deſtroy Princes, and ſubvert States and Kingdoms. Examples whereof we have in <hi>William Parry,</hi> and <hi>Edward Squire</hi> in the time of Queen <hi>Ele<g ref="char:EOLhyphen"/>zabeth.</hi> The Presbyterians exact the ſame duty with no leſs zeal (I hope to no ill intent) but with an imperious rigour.</p>
+            <p>The Church of <hi>England</hi> does adviſe and order the practice of it, to theſe effects, <hi>i. e.</hi> To prevent Scandal, to promote Repen<g ref="char:EOLhyphen"/>tance, to advance Inſtruction, and to admi<g ref="char:EOLhyphen"/>niſter both Caution and Comfort to the Pe<g ref="char:EOLhyphen"/>nitent; or (to uſe the words of our moſt excellent Litany,) <hi>To ſtrengthen ſuch as do ſtand, to comfort and help the weak-hearted, to raiſe up them that fall, and finally to beat down Satan under our feet.</hi>
+            </p>
+            <p>And to make it (like the yoak of a meek and gracious Maſter) the more practicable, light, and eaſie, ſhe puts it on with as much moderation, gentleneſs, and lenity as is
+<pb n="17" facs="tcp:66524:10"/> imaginable. Whether the Diſcourſe above recited be not of this temper, and calcula<g ref="char:EOLhyphen"/>ted for the very ſame Meridian, I leave the judicious Reader to determine.</p>
+            <p>Some men perhaps may think it ſavours as much of the Presbyterian, as others do of the Popiſh Doctrine; yet really it is neither the one nor the other: But the genuine Do<g ref="char:EOLhyphen"/>ctrine of the Church of <hi>England,</hi> according to Antiquity, and the beſt Reformed.</p>
+            <p>Nevertheleſs it hath been ſuggeſted that the ſaid Doctrine was Popery, or wheel'd apace towards it. This ſuggeſtion I ſhall not impute to deſign or want of Charity: But to a miſtaken zeal, or Godly jealouſie, awakened in the Inſinuants, by the iniquity and bloudy Practices of the Popiſh Party. And to clear the Innocency of my own Do<g ref="char:EOLhyphen"/>ctrine, I ſhall only appeal to the Proteſtants of <hi>Forein</hi> Churches (forementioned) with the <hi>Requiries</hi> of the <hi>Presbyterian</hi> Brethren, ſo ſtrictly inſiſted on ſince his Majeſties happy Reſtauration; and particularly I ſhall pro<g ref="char:EOLhyphen"/>duce Mr. <hi>Richard Baxter</hi> (never taken for a friend to Popery) to be my <hi>Compurgator.</hi> In his Noſegay preſented to Mr. <hi>Joſeph Caryl,</hi> this<note place="margin">Pag. 83.</note> is his poſitive and avowed Doctrine, <q>[Let
+<pb n="18" facs="tcp:66524:11"/> me be bold to tell my Brethren of the <hi>Mi<g ref="char:EOLhyphen"/>niſtry,</hi> that though I deny them to have <hi>Cre<g ref="char:EOLhyphen"/>dit</hi> or <hi>Authority</hi> againſt the known Word of God, yet ſo great is their <hi>Credit</hi> and <hi>Autho<g ref="char:EOLhyphen"/>rity,</hi> even as <hi>Teachers</hi> and <hi>Guides</hi> of the Church, in Cauſes agreeable to the Word, and in Cauſes to the People doubtful and unknown, and in Cauſes left by the Word to their determination, (the Word deter<g ref="char:EOLhyphen"/>mining them but generally) that I think the <hi>ignorance</hi> of this Truth hath been the <hi>main Cauſe</hi> of our ſad <hi>Confuſions</hi> and <hi>Schiſms</hi> in <hi>England,</hi> and that the <hi>Miniſters</hi> have been guilty of it, partly by an over-modeſt <hi>concealing</hi> their Authority, and partly by an <hi>indiſcreet oppoſition</hi> to the <hi>Papiſts</hi> Error of the Authority of the Church; And I think till we have better taught, even our <hi>Godly</hi> peo<g ref="char:EOLhyphen"/>ple, what <hi>credit and obedience</hi> is due to their <hi>Teachers</hi> and <hi>Spiritual Guides,</hi> the Churches of <hi>England</hi> ſhall never have <hi>peace,</hi> or any good or eſtabliſhed <hi>Order.</hi> I ſay again, we are broken for want of the knowledge of <hi>this</hi> truth; and till this be known, we ſhall never be well bound up and healed.]</q>
+            </p>
+            <p>The Reader will pleaſe to take notice, that this is ſo far from <hi>Popiſh Tyranny,</hi> that it is
+<pb n="19" facs="tcp:66524:11"/> our <hi>Presbyterian Moderation,</hi> and Mr. <hi>Baxters</hi> own <hi>Sober Sadneſs;</hi> and he thought it a Truth of ſo great importance, that he ſet a hand in the <hi>Margin</hi> to remark it, and point it out to every <hi>Reader,</hi> as moſt worthy of his obſer<g ref="char:EOLhyphen"/>vation. And ſuch as would ſee more of his thoughts in this point, he refers them to what he has written on it, in his <hi>Method for peace of Conſcience,</hi> and in the Second Part of his Book of <hi>Reſt,</hi> and in the Preface to that Part.</p>
+            <p>The Premiſes well conſidered, I am apt to believe, the Judicious Reader will con<g ref="char:EOLhyphen"/>clude, that to adhere ſtedfaſtly to the ſober and prudent eſtabliſhment of the Church of <hi>England,</hi> is very <hi>ſafe advice</hi> for all <hi>Sound Pro<g ref="char:EOLhyphen"/>teſtants.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
